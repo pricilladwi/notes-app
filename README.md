@@ -17,3 +17,8 @@ Dibangun dengan HTML, CSS, JavaScript (ES6), Web Component, dan di-bundel menggu
 - RESTful API: Notes API Dicoding
 - Fetch API
 - Webpack sebagai module bundler
+
+## Cara Menjalankan Proyek
+- Install Dependencies (npm install)
+- Jalankan di mode pengembangan (npm run start-dev)
+- Build untuk produksi (npm run build)
